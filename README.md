@@ -8,7 +8,7 @@
 
 - **作品名称**：终章 2026（Finale 2026）
 - **品牌**：ChiTank（池·坦克）
-- **作者**：郭池（[www.guochi.org](https://www.guochi.org)）
+- **作者**：郭池（[www.guochi.org](http://www.guochi.org)）
 - **完成日期**：2026-10-10
 - **版本**：v1.0
 - **SHA256**：`8d307c101fcb89a334895157109e8e4c960437a1d4cfd55e15882c1943fb4ab1`
