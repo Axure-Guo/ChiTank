@@ -30,6 +30,15 @@ The source file (.rp) and its archive are not publicly uploaded yet. The SHA256 
 
 See the rights statement inside the DEMO page.
 
+## Contact
+
+Feel free to discuss, ask questions, or share your thoughts in GitHub Discussions.
+For commercial licensing, collaboration, or other inquiries, please contact:
+
+- **Email:** live@aymi.cn
+- **Please include:** "ChiTank" in the subject line.
+
+
 # 终章 2026 · ChiTank
 
 > 一个用 Axure RP 做的坦克对战原型。全原创，零图片，不到 1M。
@@ -61,3 +70,11 @@ See the rights statement inside the DEMO page.
 ## 权利声明
 
 详见 [DEMO 页面](http://www.guochi.org/ChiTank/) 内的权利声明。
+
+## 联系与交流
+
+欢迎在 [GitHub Discussions](https://github.com/Axure-Guo/ChiTank/discussions) 中讨论、提问或分享你的想法。
+如需商用授权、合作或其他事宜，请联系：
+
+- **邮箱 / Email:** live@aymi.cn
+- **邮件主题请注明 / Please include:** "ChiTank 交流" / "ChiTank License"
