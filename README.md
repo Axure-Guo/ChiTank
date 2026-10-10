@@ -1,25 +1,34 @@
 # Finale 2026 · ChiTank
 
-> A tank battle prototype built with Axure RP. All original, zero images, under 1MB.
+> A tank battle prototype built with Axure RP. All original, zero images, under 1 MB.
 
 [🎮 Play Online](http://www.guochi.org/ChiTank/) · [📖 Project Archive](https://github.com/Axure-Guo/ChiTank)
 
 ## About
 
 - **Title**: Finale 2026
-- **Brand**: ChiTank
+- **Brand**: ChiTank (Chi's Tank)
 - **Author**: Chi Guo ([www.guochi.org](http://www.guochi.org))
-- **Completed**: October 10, 2026
+- **Completed**: 2026-10-10
 - **Version**: v1.0
 - **SHA256**: `8d307c101fcb89a334895157109e8e4c960437a1d4cfd55e15882c1943fb4ab1`
 
+## Technical Highlights
+
+- **All Original**: No image assets; visuals are built entirely from Axure native widgets or Emoji.
+- **Seamless Performance**: Frequency reduction + phase staggering + Moat optimization; pure AI loop steady-state at 529 Hz.
+- **Multiple Maps**: Randomized viewport window; different map every game.
+- **Complete Power-up System**: 5 power-ups, each with its own independent loop.
+- **More Easter Eggs to Discover**.
+- **289 cognitive insights + 72 original methods**.
+
 ## Note
 
-The source file (.rp) and its archive are not publicly uploaded. The SHA256 hash above is the fingerprint of the local source archive, used for timestamp anchoring.
+The source file (.rp) and its archive are not publicly uploaded yet. The SHA256 hash above is the fingerprint of the local source archive, used for timestamp anchoring.
 
 ## License
 
-See the license statement inside the DEMO page.
+See the rights statement inside the DEMO page.
 
 # 终章 2026 · ChiTank
 
