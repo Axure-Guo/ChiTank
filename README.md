@@ -1,6 +1,3 @@
-<img width="960" height="895" alt="image" src="https://github.com/user-attachments/assets/1fbc9c5a-edea-4ef8-8101-257f03291bd0" />
-
-
 # Finale 2026 · ChiTank
 
 > A tank battle prototype built with Axure RP. All original, zero images, under 1 MB.
